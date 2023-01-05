@@ -1,0 +1,2 @@
+# SinglyLinkedList
+All the oper
