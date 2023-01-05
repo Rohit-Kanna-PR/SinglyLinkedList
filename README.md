@@ -1,2 +1,2 @@
 # SinglyLinkedList
-All the oper
+All the operation of a singly linked list
